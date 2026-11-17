@@ -1,0 +1,50 @@
+[
+  {
+    "file": "assets\\images\\briquette-cubes-640.webp",
+    "width": 640,
+    "height": 427,
+    "bytes": 25696
+  },
+  {
+    "file": "assets\\images\\briquette-cubes-1280.webp",
+    "width": 1280,
+    "height": 853,
+    "bytes": 107424
+  },
+  {
+    "file": "assets\\images\\briquette-hexagonal-640.webp",
+    "width": 640,
+    "height": 427,
+    "bytes": 11092
+  },
+  {
+    "file": "assets\\images\\briquette-hexagonal-1280.webp",
+    "width": 1280,
+    "height": 853,
+    "bytes": 45816
+  },
+  {
+    "file": "assets\\images\\briquette-packaging-640.webp",
+    "width": 640,
+    "height": 427,
+    "bytes": 16010
+  },
+  {
+    "file": "assets\\images\\briquette-packaging-1280.webp",
+    "width": 1280,
+    "height": 853,
+    "bytes": 73216
+  },
+  {
+    "file": "assets\\images\\export-containers-480.webp",
+    "width": 480,
+    "height": 320,
+    "bytes": 13882
+  },
+  {
+    "file": "assets\\images\\export-containers-960.webp",
+    "width": 960,
+    "height": 640,
+    "bytes": 41680
+  }
+]

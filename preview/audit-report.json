@@ -1,0 +1,213 @@
+[
+  {
+    "check": "JavaScript initializes",
+    "passed": true
+  },
+  {
+    "check": "Local fonts load",
+    "passed": true
+  },
+  {
+    "check": "All ten inquiry fields and five required fields",
+    "passed": true
+  },
+  {
+    "check": "No placeholder links with empty # target",
+    "passed": true
+  },
+  {
+    "check": "Responsive 320px",
+    "passed": true,
+    "details": {
+      "viewport": 320,
+      "scrollWidth": 305,
+      "fieldsWithinViewport": true,
+      "columns": "235px",
+      "productColumns": "265px",
+      "brokenImages": [],
+      "hiddenReveals": 0,
+      "sticky": true
+    }
+  },
+  {
+    "check": "Responsive 375px",
+    "passed": true,
+    "details": {
+      "viewport": 375,
+      "scrollWidth": 360,
+      "fieldsWithinViewport": true,
+      "columns": "278px",
+      "productColumns": "316px",
+      "brokenImages": [],
+      "hiddenReveals": 0,
+      "sticky": true
+    }
+  },
+  {
+    "check": "Responsive 430px",
+    "passed": true,
+    "details": {
+      "viewport": 430,
+      "scrollWidth": 415,
+      "fieldsWithinViewport": true,
+      "columns": "333px",
+      "productColumns": "371px",
+      "brokenImages": [],
+      "hiddenReveals": 0,
+      "sticky": true
+    }
+  },
+  {
+    "check": "Responsive 768px",
+    "passed": true,
+    "details": {
+      "viewport": 768,
+      "scrollWidth": 753,
+      "fieldsWithinViewport": true,
+      "columns": "299.5px 299.5px",
+      "productColumns": "217.656px 217.672px 217.672px",
+      "brokenImages": [],
+      "hiddenReveals": 0,
+      "sticky": true
+    }
+  },
+  {
+    "check": "Responsive 1024px",
+    "passed": true,
+    "details": {
+      "viewport": 1024,
+      "scrollWidth": 1009,
+      "fieldsWithinViewport": true,
+      "columns": "296.281px 296.297px",
+      "productColumns": "215.516px 215.531px 215.531px",
+      "brokenImages": [],
+      "hiddenReveals": 0,
+      "sticky": true
+    }
+  },
+  {
+    "check": "Responsive 1366px",
+    "passed": true,
+    "details": {
+      "viewport": 1366,
+      "scrollWidth": 1351,
+      "fieldsWithinViewport": true,
+      "columns": "412.219px 412.219px",
+      "productColumns": "288.812px 288.812px 288.812px",
+      "brokenImages": [],
+      "hiddenReveals": 0,
+      "sticky": true
+    }
+  },
+  {
+    "check": "Responsive 1440px",
+    "passed": true,
+    "details": {
+      "viewport": 1440,
+      "scrollWidth": 1425,
+      "fieldsWithinViewport": true,
+      "columns": "437.297px 437.312px",
+      "productColumns": "305.531px 305.531px 305.547px",
+      "brokenImages": [],
+      "hiddenReveals": 0,
+      "sticky": true
+    }
+  },
+  {
+    "check": "Mobile section headings retain word spacing",
+    "passed": true
+  },
+  {
+    "check": "Floating contact does not cover mobile typing",
+    "passed": true
+  },
+  {
+    "check": "Mobile menu opens and becomes accessible",
+    "passed": true
+  },
+  {
+    "check": "Escape closes menu and restores focus",
+    "passed": true
+  },
+  {
+    "check": "Navigation link closes mobile menu",
+    "passed": true
+  },
+  {
+    "check": "Desktop navigation restores after resize",
+    "passed": true
+  },
+  {
+    "check": "Empty required fields blocked and first error focused",
+    "passed": true
+  },
+  {
+    "check": "Whitespace name and invalid email blocked",
+    "passed": true
+  },
+  {
+    "check": "Unconfigured WhatsApp blocks external navigation",
+    "passed": true
+  },
+  {
+    "check": "Encoded WhatsApp inquiry includes all ten fields",
+    "passed": true,
+    "details": {
+      "encoded": true,
+      "allFields": true
+    }
+  },
+  {
+    "check": "Popup protection and usable fallback link",
+    "passed": true
+  },
+  {
+    "check": "Floating WhatsApp uses the same configured number",
+    "passed": true
+  },
+  {
+    "check": "Editing an inquiry invalidates the old fallback link",
+    "passed": true
+  },
+  {
+    "check": "Product inquiry prefills form and focuses product field",
+    "passed": true
+  },
+  {
+    "check": "Service inquiry selects Import",
+    "passed": true
+  },
+  {
+    "check": "Service notes preserve visitor input",
+    "passed": true
+  },
+  {
+    "check": "Hero slideshow automatically advances",
+    "passed": true
+  },
+  {
+    "check": "Pause stops autoplay",
+    "passed": true
+  },
+  {
+    "check": "Manual slide controls work while paused",
+    "passed": true
+  },
+  {
+    "check": "Reduced motion disables autoplay, zoom and hidden reveals",
+    "passed": true
+  },
+  {
+    "check": "No visitor information stored",
+    "passed": true
+  },
+  {
+    "check": "No-JavaScript content and navigation remain available",
+    "passed": true
+  },
+  {
+    "check": "No JavaScript exceptions or failed HTTP assets",
+    "passed": true,
+    "details": []
+  }
+]

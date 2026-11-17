@@ -1,0 +1,27 @@
+{
+  "archive": "D:\\code\\web\\ekspor impor\\briquette-website.zip",
+  "bytes": 435476,
+  "files": [
+    "index.html",
+    "README.md",
+    "css/style.css",
+    "js/config.js",
+    "js/script.js",
+    "assets/images/briquette-cubes-1280.webp",
+    "assets/images/briquette-cubes-640.webp",
+    "assets/images/briquette-hexagonal-1280.webp",
+    "assets/images/briquette-hexagonal-640.webp",
+    "assets/images/briquette-packaging-1280.webp",
+    "assets/images/briquette-packaging-640.webp",
+    "assets/images/export-containers-480.webp",
+    "assets/images/export-containers-960.webp",
+    "assets/fonts/inter-latin.woff2",
+    "assets/fonts/inter-OFL.txt",
+    "assets/fonts/manrope-latin.woff2",
+    "assets/fonts/manrope-OFL.txt",
+    "assets/icons/favicon.svg"
+  ],
+  "browserChecksPassed": 34,
+  "integrity": "verified",
+  "whatsappConfigured": false
+}
